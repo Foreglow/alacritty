@@ -1,0 +1,31 @@
+# Afterglow Light - Alacritty Color Scheme
+# Based on the Afterglow light color palette
+
+colors:
+  primary:
+    background: '#F4EEE1'
+    foreground: '#24163B'
+  cursor:
+    text: '#F4EEE1'
+    cursor: '#C3228E'
+  selection:
+    text: '#F4EEE1'
+    background: '#DFC2AA'
+  normal:
+    black: '#24163B'
+    red: '#B12531'
+    green: '#22775B'
+    yellow: '#A25410'
+    blue: '#1D7187'
+    magenta: '#8930A6'
+    cyan: '#AE296B'
+    white: '#574979'
+  bright:
+    black: '#CDAEA2'
+    red: '#B12531'
+    green: '#22775B'
+    yellow: '#A25410'
+    blue: '#1D7187'
+    magenta: '#8930A6'
+    cyan: '#AE296B'
+    white: '#24163B'
