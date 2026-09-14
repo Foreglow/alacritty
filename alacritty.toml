@@ -1,0 +1,5 @@
+# Edit import path to apply theme
+[general]
+import = [
+    "C:/Users/William/AppData/Roaming/alacritty/foreglow.toml"
+]
