@@ -1,0 +1,29 @@
+# Foreglow — Alacritty Color Scheme
+
+[colors.primary]
+background = "#161221"
+foreground = "#E8E3F2"
+
+[colors.cursor]
+text = "#161221"
+cursor = "#F471C8"
+
+[colors.normal]
+black = "#161221"
+red = "#E46772"
+green = "#6BC7A8"
+yellow = "#F2A65A"
+blue = "#75C6D7"
+magenta = "#CB81E4"
+cyan = "#EC93BF"
+white = "#A49BBF"
+
+[colors.bright]
+black = "#322C44"
+red = "#E46772"
+green = "#6BC7A8"
+yellow = "#F2A65A"
+blue = "#75C6D7"
+magenta = "#CB81E4"
+cyan = "#EC93BF"
+white = "#E8E3F2"

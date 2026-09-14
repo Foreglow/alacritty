@@ -1,0 +1,29 @@
+# Alpenglow — Alacritty Color Scheme
+
+[colors.primary]
+background = "#1A0505"
+foreground = "#F5E6DC"
+
+[colors.cursor]
+text = "#1A0505"
+cursor = "#FF6B9D"
+
+[colors.normal]
+black = "#1A0505"
+red = "#FF4444"
+green = "#E85D75"
+yellow = "#FF8844"
+blue = "#E85D75"
+magenta = "#FF6B8A"
+cyan = "#FFB3C6"
+white = "#C4A398"
+
+[colors.bright]
+black = "#4D1818"
+red = "#FF4444"
+green = "#E85D75"
+yellow = "#FF8844"
+blue = "#E85D75"
+magenta = "#FF6B8A"
+cyan = "#FFB3C6"
+white = "#F5E6DC"
